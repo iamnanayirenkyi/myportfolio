@@ -1,0 +1,101 @@
+{
+  "profile": {
+    "fullName": "Mr Yirenkyi",
+    "stageName": "Nana Yirenkyi",
+    "location": "Ghanaian",
+    "email": "andrewsnanayirenkyi@gmail.com",
+    "photoUrl": "/uploads/profile-photo-1793061990981.jpeg",
+    "cvUrl": "",
+    "developerTagline": "Exploring my interests in this digital world",
+    "poetTagline": "Preaching Peace in Pieces",
+    "developerBio": "I am an IT Professional highly motivated by the logic of computers doing what you asked them to do",
+    "poetBio": "A puzzle of words dropped out of nowhere to cause all to know where they were meant to be. For me, Ps is not your peace but a mission to preach piece in pieces"
+  },
+  "skills": [
+    {
+      "title": "Frontend Development",
+      "detail": "The art for the user's experience ",
+      "level": "79"
+    },
+    {
+      "title": "Backend Development",
+      "detail": "Getting the users to safely enjoy their experience",
+      "level": "49"
+    },
+    {
+      "title": "Database Management",
+      "detail": "Designing, querying and looking after the data that applications depend on.",
+      "level": 80
+    },
+    {
+      "title": "Networking",
+      "detail": "Setting up and troubleshooting networks so that systems and people stay connected.",
+      "level": 75
+    },
+    {
+      "title": "Vibe Coding",
+      "detail": "Exploring the advantages of artificial intelligence in the making working more easier and effective",
+      "level": "67"
+    }
+  ],
+  "performanceStages": [
+    {
+      "name": "World Poetry Day",
+      "place": "Accra, Ghana",
+      "year": "2017",
+      "scope": "local"
+    }
+  ],
+  "videos": [
+    {
+      "youtube": "https://youtu.be/Wrt01SbKXZc",
+      "title": "KSM Show",
+      "note": ""
+    },
+    {
+      "youtube": "https://youtu.be/BDzAtN5gFjg",
+      "title": "SHAKINAH Experience",
+      "note": "Inspired by the \"No One Like You\" by Eben ft. Nat Bassey "
+    },
+    {
+      "youtube": "https://youtu.be/VtMNtVkLey0",
+      "title": "Tears Of A Woman",
+      "note": ""
+    }
+  ],
+  "pastWorks": [
+    {
+      "title": "LMS",
+      "kind": "software",
+      "year": "2026",
+      "summary": "A grouped of four explored and worked on the impact of AI in Learning Management Systems(LMS).\nWe built the next big thing that introduces AI to the world of studies",
+      "link": ""
+    }
+  ],
+  "upcomingWorks": [
+    {
+      "title": "Something Is In The Kitchen...",
+      "kind": "poetry",
+      "date": "Date to be announced",
+      "place": "Online",
+      "summary": "Expect to receive another message to add to the pieces you already have"
+    }
+  ],
+  "mentoring": {
+    "heading": "The Dark Project",
+    "text": "I have a group of people I help to stay true to stay honest to their passions and continue to change lives with their beautiful minds and words",
+    "figures": [
+      {
+        "number": "",
+        "label": ""
+      }
+    ]
+  },
+  "socials": {
+    "instagram": "https://www.instagram.com/iamnanayirenkyi?srtk=MXB1cmx3Y2hycjV1Mw%3D%3D&utm_source=qr",
+    "x": "https://x.com/iamnanayirenkyi?s=11",
+    "youtube": "https://youtube.com/@iamnanayirenkyi?si=3MHOvn1yjYWa2RR3",
+    "github": ""
+  },
+  "certifications": []
+}
