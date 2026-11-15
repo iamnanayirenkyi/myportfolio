@@ -67,7 +67,7 @@ async function onlyTheOwner(req, res, next) {
     if (!allowedAdminEmails.includes(email)) {
       return res
         .status(403)
-        .json({ message: "This account is not allowed to edit the site." });
+        .json({ message: "Sorry! You cannot proceed from here." });
     }
     req.signedInOwner = verified;
     next();
